@@ -1,0 +1,60 @@
+2023-01-23T00:36:09+00:00 CRITICAL require(): Failed opening required '/home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/inc/jetpack.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/functions.php on line 542
+
+2023-01-23T03:05:00+00:00 CRITICAL require(): Failed opening required '/home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/inc/jetpack.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/functions.php on line 542
+
+2023-01-23T03:08:07+00:00 CRITICAL require(): Failed opening required '/home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/inc/jetpack.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/functions.php on line 542
+
+2023-01-23T03:08:13+00:00 CRITICAL require(): Failed opening required '/home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/inc/jetpack.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/functions.php on line 542
+
+2023-01-23T03:09:22+00:00 CRITICAL require(): Failed opening required '/home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/inc/jetpack.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/functions.php on line 542
+
+2023-01-23T17:10:57+00:00 CRITICAL require(): Failed opening required '/home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/inc/jetpack.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/functions.php on line 542
+
+2023-01-23T17:10:59+00:00 CRITICAL require(): Failed opening required '/home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/inc/jetpack.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/functions.php on line 542
+
+2023-01-23T17:11:01+00:00 CRITICAL require(): Failed opening required '/home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/inc/jetpack.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/functions.php on line 542
+
+2023-01-23T17:11:03+00:00 CRITICAL require(): Failed opening required '/home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/inc/jetpack.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/functions.php on line 542
+
+2023-01-23T17:11:39+00:00 CRITICAL Cannot redeclare tgmpa() (previously declared in /home/u511079455/domains/chintuart.com/public_html/wp-content/plugins/famethemes-demo-importer/inc/class-tgm-plugin-activation.php:2126) in /home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/inc/tgm/class-tgm-plugin-activation.php on line 1930
+
+2023-01-23T17:12:03+00:00 CRITICAL Cannot redeclare tgmpa() (previously declared in /home/u511079455/domains/chintuart.com/public_html/wp-content/plugins/famethemes-demo-importer/inc/class-tgm-plugin-activation.php:2126) in /home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/inc/tgm/class-tgm-plugin-activation.php on line 1930
+
+2023-01-23T17:12:11+00:00 CRITICAL Cannot redeclare tgmpa() (previously declared in /home/u511079455/domains/chintuart.com/public_html/wp-content/plugins/famethemes-demo-importer/inc/class-tgm-plugin-activation.php:2126) in /home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/inc/tgm/class-tgm-plugin-activation.php on line 1930
+
+2023-01-23T17:12:16+00:00 CRITICAL Cannot redeclare tgmpa() (previously declared in /home/u511079455/domains/chintuart.com/public_html/wp-content/plugins/famethemes-demo-importer/inc/class-tgm-plugin-activation.php:2126) in /home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/inc/tgm/class-tgm-plugin-activation.php on line 1930
+
+2023-01-23T17:12:20+00:00 CRITICAL Cannot redeclare tgmpa() (previously declared in /home/u511079455/domains/chintuart.com/public_html/wp-content/plugins/famethemes-demo-importer/inc/class-tgm-plugin-activation.php:2126) in /home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/inc/tgm/class-tgm-plugin-activation.php on line 1930
+
+2023-01-23T17:12:26+00:00 CRITICAL Cannot redeclare tgmpa() (previously declared in /home/u511079455/domains/chintuart.com/public_html/wp-content/plugins/famethemes-demo-importer/inc/class-tgm-plugin-activation.php:2126) in /home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/inc/tgm/class-tgm-plugin-activation.php on line 1930
+
+2023-01-23T17:12:28+00:00 CRITICAL Cannot redeclare tgmpa() (previously declared in /home/u511079455/domains/chintuart.com/public_html/wp-content/plugins/famethemes-demo-importer/inc/class-tgm-plugin-activation.php:2126) in /home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/inc/tgm/class-tgm-plugin-activation.php on line 1930
+
+2023-01-23T17:14:06+00:00 CRITICAL require(): Failed opening required '/home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/inc/jetpack.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/functions.php on line 542
+
+2023-01-23T17:14:07+00:00 CRITICAL Cannot redeclare tgmpa() (previously declared in /home/u511079455/domains/chintuart.com/public_html/wp-content/plugins/famethemes-demo-importer/inc/class-tgm-plugin-activation.php:2126) in /home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/inc/tgm/class-tgm-plugin-activation.php on line 1930
+
+2023-01-23T17:15:09+00:00 CRITICAL Cannot redeclare tgmpa() (previously declared in /home/u511079455/domains/chintuart.com/public_html/wp-content/plugins/famethemes-demo-importer/inc/class-tgm-plugin-activation.php:2126) in /home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/inc/tgm/class-tgm-plugin-activation.php on line 1930
+
+2023-01-23T17:17:08+00:00 CRITICAL Cannot redeclare tgmpa() (previously declared in /home/u511079455/domains/chintuart.com/public_html/wp-content/plugins/famethemes-demo-importer/inc/class-tgm-plugin-activation.php:2126) in /home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/inc/tgm/class-tgm-plugin-activation.php on line 1930
+
+2023-01-23T17:17:43+00:00 CRITICAL Cannot redeclare tgmpa() (previously declared in /home/u511079455/domains/chintuart.com/public_html/wp-content/plugins/famethemes-demo-importer/inc/class-tgm-plugin-activation.php:2126) in /home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/inc/tgm/class-tgm-plugin-activation.php on line 1930
+
+2023-01-23T17:17:44+00:00 CRITICAL Cannot redeclare tgmpa() (previously declared in /home/u511079455/domains/chintuart.com/public_html/wp-content/plugins/famethemes-demo-importer/inc/class-tgm-plugin-activation.php:2126) in /home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/inc/tgm/class-tgm-plugin-activation.php on line 1930
+
+2023-01-23T17:17:45+00:00 CRITICAL Cannot redeclare tgmpa() (previously declared in /home/u511079455/domains/chintuart.com/public_html/wp-content/plugins/famethemes-demo-importer/inc/class-tgm-plugin-activation.php:2126) in /home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/inc/tgm/class-tgm-plugin-activation.php on line 1930
+
+2023-01-23T17:17:45+00:00 CRITICAL Cannot redeclare tgmpa() (previously declared in /home/u511079455/domains/chintuart.com/public_html/wp-content/plugins/famethemes-demo-importer/inc/class-tgm-plugin-activation.php:2126) in /home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/inc/tgm/class-tgm-plugin-activation.php on line 1930
+
+2023-01-23T17:17:46+00:00 CRITICAL Cannot redeclare tgmpa() (previously declared in /home/u511079455/domains/chintuart.com/public_html/wp-content/plugins/famethemes-demo-importer/inc/class-tgm-plugin-activation.php:2126) in /home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/inc/tgm/class-tgm-plugin-activation.php on line 1930
+
+2023-01-23T17:17:46+00:00 CRITICAL Cannot redeclare tgmpa() (previously declared in /home/u511079455/domains/chintuart.com/public_html/wp-content/plugins/famethemes-demo-importer/inc/class-tgm-plugin-activation.php:2126) in /home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/inc/tgm/class-tgm-plugin-activation.php on line 1930
+
+2023-01-23T17:17:48+00:00 CRITICAL require(): Failed opening required '/home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/inc/jetpack.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/functions.php on line 542
+
+2023-01-23T17:18:08+00:00 CRITICAL Cannot redeclare tgmpa() (previously declared in /home/u511079455/domains/chintuart.com/public_html/wp-content/plugins/famethemes-demo-importer/inc/class-tgm-plugin-activation.php:2126) in /home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/inc/tgm/class-tgm-plugin-activation.php on line 1930
+
+2023-01-23T17:20:09+00:00 CRITICAL Cannot redeclare tgmpa() (previously declared in /home/u511079455/domains/chintuart.com/public_html/wp-content/plugins/famethemes-demo-importer/inc/class-tgm-plugin-activation.php:2126) in /home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/inc/tgm/class-tgm-plugin-activation.php on line 1930
+
+2023-01-23T17:22:09+00:00 CRITICAL Cannot redeclare tgmpa() (previously declared in /home/u511079455/domains/chintuart.com/public_html/wp-content/plugins/famethemes-demo-importer/inc/class-tgm-plugin-activation.php:2126) in /home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/inc/tgm/class-tgm-plugin-activation.php on line 1930
+

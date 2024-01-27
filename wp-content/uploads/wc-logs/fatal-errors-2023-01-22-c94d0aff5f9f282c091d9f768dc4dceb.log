@@ -1,0 +1,52 @@
+2023-01-22T17:26:01+00:00 CRITICAL require(): Failed opening required '/home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/inc/jetpack.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/functions.php on line 542
+
+2023-01-22T17:26:14+00:00 CRITICAL require(): Failed opening required '/home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/inc/jetpack.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/functions.php on line 542
+
+2023-01-22T17:27:14+00:00 CRITICAL require(): Failed opening required '/home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/inc/jetpack.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/functions.php on line 542
+
+2023-01-22T17:29:13+00:00 CRITICAL require(): Failed opening required '/home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/inc/jetpack.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/functions.php on line 542
+
+2023-01-22T17:30:14+00:00 CRITICAL require(): Failed opening required '/home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/inc/jetpack.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/functions.php on line 542
+
+2023-01-22T17:30:15+00:00 CRITICAL require(): Failed opening required '/home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/inc/jetpack.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/functions.php on line 542
+
+2023-01-22T17:31:14+00:00 CRITICAL require(): Failed opening required '/home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/inc/jetpack.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/functions.php on line 542
+
+2023-01-22T17:33:13+00:00 CRITICAL require(): Failed opening required '/home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/inc/jetpack.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/functions.php on line 542
+
+2023-01-22T17:34:13+00:00 CRITICAL require(): Failed opening required '/home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/inc/jetpack.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/functions.php on line 542
+
+2023-01-22T17:36:13+00:00 CRITICAL require(): Failed opening required '/home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/inc/jetpack.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/functions.php on line 542
+
+2023-01-22T17:38:13+00:00 CRITICAL require(): Failed opening required '/home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/inc/jetpack.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/functions.php on line 542
+
+2023-01-22T17:40:08+00:00 CRITICAL require(): Failed opening required '/home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/inc/jetpack.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/functions.php on line 542
+
+2023-01-22T17:40:21+00:00 CRITICAL require(): Failed opening required '/home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/inc/jetpack.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/functions.php on line 542
+
+2023-01-22T17:40:22+00:00 CRITICAL require(): Failed opening required '/home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/inc/jetpack.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/functions.php on line 542
+
+2023-01-22T17:41:25+00:00 CRITICAL require(): Failed opening required '/home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/inc/jetpack.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/functions.php on line 542
+
+2023-01-22T17:42:44+00:00 CRITICAL require(): Failed opening required '/home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/inc/jetpack.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/functions.php on line 542
+
+2023-01-22T19:41:48+00:00 CRITICAL require(): Failed opening required '/home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/inc/jetpack.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/functions.php on line 542
+
+2023-01-22T20:43:29+00:00 CRITICAL require(): Failed opening required '/home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/inc/jetpack.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/functions.php on line 542
+
+2023-01-22T21:26:24+00:00 CRITICAL require(): Failed opening required '/home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/inc/jetpack.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/functions.php on line 542
+
+2023-01-22T22:52:57+00:00 CRITICAL require(): Failed opening required '/home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/inc/jetpack.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/functions.php on line 542
+
+2023-01-22T23:04:26+00:00 CRITICAL require(): Failed opening required '/home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/inc/jetpack.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/functions.php on line 542
+
+2023-01-22T23:04:26+00:00 CRITICAL require(): Failed opening required '/home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/inc/jetpack.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/functions.php on line 542
+
+2023-01-22T23:04:30+00:00 CRITICAL require(): Failed opening required '/home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/inc/jetpack.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/functions.php on line 542
+
+2023-01-22T23:04:32+00:00 CRITICAL require(): Failed opening required '/home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/inc/jetpack.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/functions.php on line 542
+
+2023-01-22T23:31:21+00:00 CRITICAL require(): Failed opening required '/home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/inc/jetpack.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/functions.php on line 542
+
+2023-01-22T23:31:21+00:00 CRITICAL require(): Failed opening required '/home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/inc/jetpack.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u511079455/domains/chintuart.com/public_html/wp-content/themes/finix/functions.php on line 542
+

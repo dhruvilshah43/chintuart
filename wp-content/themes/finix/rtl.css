@@ -1,0 +1,292 @@
+/*
+Theme Name: finix
+
+Adding support for languages written in a Right To Left (RTL) direction is easy,
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+https://codex.wordpress.org/Right-to-Left_Language_Support
+
+*/
+
+/*========================================*/
+/* RTL - General CSS */
+/*========================================*/
+.rtl {
+	text-align: right;
+}
+button,
+input,
+optgroup,
+select,
+textarea {
+	text-align: right;
+}
+
+/* Swiper Slider Arrow */
+.swiper-container:hover .swiper-button-next {
+    right: auto;
+    left: 15px;
+}
+.swiper-container:hover .swiper-button-prev {
+    left: auto;
+    right: 15px;
+}
+
+/*========================================*/
+/* Bootstrap - General CSS */
+/*========================================*/
+.text-left {
+    text-align: right !important;
+}
+.text-right {
+    text-align: left!important;
+}
+
+.elementor-alert {
+	text-align: right;
+}
+.elementor-alert button.elementor-alert-dismiss {
+	right: auto;
+	left: 10px;
+}
+
+/*========================================*/
+/* Elements - Section Title */
+/*========================================*/
+.section-title.text-left,
+.section-title.left {
+	text-align: right;
+}
+.section-title.text-right,
+.section-title.right {
+	text-align: left;
+}
+.section-title.text-right .divider {
+    margin-left: 0;
+    margin-right: auto;
+}
+
+/*========================================*/
+/* Elements - Infobox */
+/*========================================*/
+.feature-box.icon-left .feature-icon {
+	margin-right: 0;
+	margin-left: 25px;
+}
+
+/*========================================*/
+/* Elements - Newsletter */
+/*========================================*/
+.newsletter-main .button-area {
+    margin-left: 0;
+    margin-right: 10px;
+}
+.newsletter-main .button-area button i {
+    padding-left: 8px;
+    padding-right: 0;
+}
+.newsletter-main.button-bottom.align-left .mc4wp-form-fields {
+    text-align: right;
+}
+.newsletter-main.button-bottom.align-right .mc4wp-form-fields {
+    text-align: left;
+}
+.newsletter-main.button-bottom .mc4wp-form-fields .button-area {
+	margin-right: 0;
+}
+
+/*========================================*/
+/* Elements - Contact Form */
+/*========================================*/
+.wpcf7-form .wpcf7-acceptance {
+    padding-left: 0;
+    padding-right: 25px;
+}
+.wpcf7-form .wpcf7-acceptance .wpcf7-list-item {
+	margin-right: 0;
+}
+.wpcf7-form .wpcf7-acceptance input {
+	left: auto;
+	right: 0;
+}
+
+/*========================================*/
+/* Elements - List */
+/*========================================*/
+.elementor-section .list ul li i {
+    margin-right: 0 !important;
+    margin-left: 10px;
+}
+
+/*========================================*/
+/* Elements - Buttons */
+/*========================================*/
+.btn-default.style-default .finix-align-icon-left,
+.btn-default.style-border .finix-align-icon-left,
+.btn-default.style-flat .finix-align-icon-left {
+    padding-right: 0 !important;
+    padding-left: 10px;
+}
+.btn-default.style-default .finix-align-icon-right,
+.btn-default.style-border .finix-align-icon-right,
+.btn-default.style-flat .finix-align-icon-right {
+    padding-left: 0 !important;
+    padding-right: 10px;
+}
+.btn-default.icon-animation .finix-button-inner .finix-align-icon-right {
+    right: auto;
+    left: 0;
+}
+.btn-default.icon-animation:hover .finix-button-inner .finix-align-icon-right {
+    right: auto;
+    left: -13px;
+}
+.btn-default.icon-animation:hover .finix-button-inner .finix-align-icon-right + .finix-button-text {
+    left: 13px;
+}
+
+/*========================================*/
+/* Elements - Portfolio */
+/*========================================*/
+.portfolio-main .portfolio-style-2 .grid-item .item-info {
+	text-align: right;
+}
+.portfolio-main .portfolio-style-2 .item-info .popup-link {
+	margin-left: 0;
+    margin-right: auto;
+    padding-left: 0;
+    padding-right: 25px;
+}
+
+.portfolio-main .portfolio-style-3 .grid-item .item-info {
+	text-align: right;
+}
+.portfolio-main .portfolio-style-3 .item-info .popup-link {
+	right: auto;
+	left: 30px;
+}
+.portfolio-main .portfolio-style-3 .item-info .popup-link:hover {
+	right: auto;
+	left: 22px;
+}
+
+/*========================================*/
+/* Elements - Accordion */
+/*========================================*/
+.accordion .accordion-icon.accordion-icon-right {
+    margin-left: 0;
+    margin-right: auto;
+}
+
+/*========================================*/
+/* Elements - Blog */
+/*========================================*/
+.blog-style-1 .post-inner .post-content .meta-date {
+    margin-left: 0;
+    margin-right: 12px;
+}
+.blog-style-1 .post-inner .post-content .meta-author img {
+    margin-right: 0;
+    margin-left: 7px;
+}
+.blog-style-1 .post-inner .post-image .post-category {
+    left: auto;
+    right: 20px;
+}
+.blog-style-2 .post-inner .post-category {
+    margin-right: 0;
+    margin-left: 10px;
+}
+.blog-style-2 .post-inner .post-category + .meta-date {
+    margin-left: 0;
+    margin-right: 5px;
+}
+.blog-style-2 .post-inner .post-content .read-link i {
+    margin-left: 0;
+    margin-right: 10px;
+}
+.blog-style-3 .post-inner .post-meta > div:not(:last-child) {
+    margin-right: 0;
+    margin-left: 18px;
+}
+.blog-style-3 .post-image .meta-date {
+    right: auto;
+    left: 25px;
+}
+.blog-style-3 .post-inner .post-meta a {
+    display: flex;
+}
+.blog-style-3 .post-inner .post-meta i {
+    padding-right: 0;
+    padding-left: 10px;
+}
+.blog-style-3 .post-content .post-link a i {
+    margin-left: 0;
+    margin-right: auto;
+}
+
+/*========================================*/
+/* Elements - Team */
+/*========================================*/
+.team-member.team-style-3 .team-social {
+    right: auto;
+    left: 25px;
+}
+.team-member.team-style-4 .member-info .member-name-pos {
+    top: auto;
+    left: auto;
+    right: 30px;
+}
+.team-member.team-style-4 .team-social {
+    right: auto;
+    left: 25px;
+    transform: translateX(20px);
+}
+.team-member.team-style-5 .team-member-inner .team-social {
+    left: auto;
+    right: -10px;
+}
+.team-member.team-style-5 .team-member-inner:hover .team-social {
+    left: auto;
+    right: 20px;
+}
+
+/*========================================*/
+/* Elements - Testimonials */
+/*========================================*/
+.testimonial-main.testimonial-style-1 .testimonial-inner .icon-quote {
+    left: auto;
+    right: 40px;
+}
+.testimonial-main .author-details .author-info {
+    margin-left: 0;
+    margin-right: 15px;
+}
+.testimonial-main.testimonial-style-1 .testimonial-inner .author-description:before {
+    left: auto;
+    right: 55px;
+}
+.testimonial-main.testimonial-style-3 .testimonial-inner .icon-quote {
+    right: auto;
+    left: 40px;
+}
+
+/*========================================*/
+/* Elements - Tabs */
+/*========================================*/
+.tab.tab-style2 .nav-tabs.icon-right .nav-link i {
+    margin-left: 0;
+    margin-right: 15px;
+}
+.tab.tab-style2 .nav-tabs.icon-left .nav-link i {
+    margin-right: 0;
+    margin-left: 15px;
+}
+.tab.tab-style3 .nav-tabs {
+    padding-right: 0;
+}
+.tab.tab-style3 .nav-tabs .nav-link i {
+    margin-right: 0;
+    margin-left: 10px;
+}
